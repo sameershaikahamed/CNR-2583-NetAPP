@@ -1,0 +1,18 @@
+# VIM
+*~
+
+.classpath
+.DS_Store
+.factorypath
+.infrapool
+.project
+.settings
+.vscode
+apache-maven*
+bin
+maven.*
+pom.xml.*
+release-*
+release.properties
+target
+VERSION
